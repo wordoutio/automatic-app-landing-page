@@ -1,6 +1,6 @@
 ---
 layout: page
-title: End User Licnece Agreement (EULA)
+title: EULA
 include_in_header: false
 ---
 
