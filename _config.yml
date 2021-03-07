@@ -12,8 +12,9 @@ app_description                           : Learn New Vocabularies & Play Word P
 
 enable_smart_app_banner                   : true
 
-instagram_username                        : wordoutio
 twitter_username                          : wordoutio
+instagram_username                        : wordoutio
+email_address                             : wordoutio@gmail.com
 
 features                                  :
 
