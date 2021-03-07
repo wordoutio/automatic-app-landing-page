@@ -41,7 +41,7 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/header.png
 cover_overlay_color                       : "#000000"
-cover_overlay_transparency                : 0.85
+cover_overlay_transparency                : 0.75
 
 device_color                              : black
 
